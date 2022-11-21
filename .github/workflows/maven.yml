@@ -1,4 +1,4 @@
-name: project cicd flow
+name: Spring Boot Docker cicd flow
 
 on:
   push:
