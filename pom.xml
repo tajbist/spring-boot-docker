@@ -11,8 +11,8 @@
     <groupId>com.io</groupId>
     <artifactId>spring-boot-docker</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-boot-docker</name>
-    <description>spring-boot-docker</description>
+    <name>springdocker</name>
+    <description>springdocker</description>
     <properties>
         <java.version>17</java.version>
     </properties>
