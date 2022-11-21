@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.io</groupId>
-    <artifactId>spring-boot-docker</artifactId>
+    <artifactId>springdocker</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>springdocker</name>
     <description>springdocker</description>
