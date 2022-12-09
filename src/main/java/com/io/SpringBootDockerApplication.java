@@ -11,7 +11,7 @@ public class SpringBootDockerApplication {
 
     @GetMapping("/hello")
     public String show() {
-        return "Hello Docker Heruko";
+        return "Hello Docker";
     }
 
     public static void main(String[] args) {
